@@ -1,0 +1,11 @@
+body{
+    background-image: url("assets/img/heaven.jpg");
+    background-size: cover;
+}
+.container{
+ border: 10px double rgb(25, 221, 191);
+ padding: 100px;
+ text-align: center;
+ margin-right: 20px;
+ display: inline-block;
+}
